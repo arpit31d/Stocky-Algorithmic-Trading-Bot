@@ -4,8 +4,8 @@ Problem Statement:
 Stocks in the stock market are highly volatile by nature, changing its price with
 respect to various economic indicators, political happenings, and investor
 sentiments. The problem being faced by both the individual and institutional
-level of investors is the accurate prediction of market trends and transacƟons
-at the right time. But the traders at human levels usually suffer from emoƟonal
+level of investors is the accurate prediction of market trends and transactions
+at the right time. But the traders at human levels usually suffer from emotional
 bias, inefficiency, and tiredness leading to inefficient trading.
 
 Objectives:
@@ -25,6 +25,6 @@ selling of stocks using predetermined strategies for the bot in real time.
 Real-Time Monitoring: Monitoring in real time to integrate constant updaƟng
 of stock data to be able to adjust the predicƟon at each instant trading.
 
-Risk Management: Implement actions guaranteeing the restricƟon of losses,
+Risk Management: Implement actions guaranteeing the restriction of losses,
 through stop-loss orders and portfolio diversification.
 
