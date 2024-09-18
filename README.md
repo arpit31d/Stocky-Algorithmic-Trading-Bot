@@ -22,8 +22,8 @@ or machine learning algorithms, specifically by the application of Long ShortTer
 Algorithmic trading: Algorithmic trading to implement automated buying and
 selling of stocks using predetermined strategies for the bot in real time.
 
-Real-Time Monitoring: Monitoring in real time to integrate constant updaƟng
-of stock data to be able to adjust the predicƟon at each instant trading.
+Real-Time Monitoring: Monitoring in real time to integrate constant updating
+of stock data to be able to adjust the prediction at each instant trading.
 
 Risk Management: Implement actions guaranteeing the restriction of losses,
 through stop-loss orders and portfolio diversification.
